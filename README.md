@@ -1,6 +1,6 @@
 # Prazer, Samir Cunha,
 
-Sou Desenvolvedor Jr, começei na área no segundo trimestre de 2021 e desde então tenho me aprofundado nesta área. 
+Sou Desenvolvedor Jr, começei na área no segundo trimestre de 2021 e desde então tenho dedicado meu tempo para estudar as linguagens que gosto. 
 
 Minhas habilidades até o momento são: 
 > * **JavaScript**
