@@ -1,6 +1,6 @@
 # Prazer, meu nome é Samir!
 
-Sou Desenvolvedor Jr, começei a programar em 2021 e, desde então, tenho dedicado meu tempo para estudar as linguagens que mais me identifico e quero trabalhar.
+Sou Desenvolvedor Jr, começei a programar no início de 2021 e, desde então, tenho dedicado meu tempo em aprender as linguagens que mais me identifico e quero trabalhar.
 
 ##
 
@@ -30,7 +30,7 @@ Sou Desenvolvedor Jr, começei a programar em 2021 e, desde então, tenho dedica
   
 ##
   
-Gosto muito de aprender e vou compartilhar aqui tudo o que eu estiver desenvolvendo. 
+Prezo pelo aprendizado constante. Vou compartilhar aqui tudo o que eu estiver desenvolvendo. 
 
 Obrigado pela visita, 
 Volte sempre!
