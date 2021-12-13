@@ -1,8 +1,36 @@
-# Prazer, meu nome é Samir!
+# Hello, my name is Samir Cunha!
 
-Sou Desenvolvedor Jr, começei a programar no início de 2021 e, desde então, tenho dedicado meu tempo em aprender as linguagens que mais me identifico e quero trabalhar.
+- 🔥 Junior Front-end Developter. 
 
-##
+- 🔭 I’m currently studying new techs. 
+
+- 💬 Ask me about **JavaScript, HTML, CSS, Rect, Typescript**
+  
+ <br><br>
+  
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<div> 
+  <a href="https://www.instagram.com/samircunha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:samircunha98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samir-cunha-934347212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br><br>
+  
+## ⚙️ &nbsp;GitHub Analytics
 
 <div style="display: inline_block">
   <a href="https://github.com/samircunha">
@@ -10,28 +38,3 @@ Sou Desenvolvedor Jr, começei a programar no início de 2021 e, desde então, t
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samircunha&layout=compact&langs_count=7&theme=white"/>
 </div>
   
-##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Samir-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Samir-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Samir-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-##
-
-<div> 
-  <a href="https://www.instagram.com/samircunha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:samircunha98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samir-cunha-934347212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
-  
-##
-  
-Prezo pelo aprendizado constante. Vou compartilhar aqui tudo o que eu estiver desenvolvendo. 
-
-Obrigado pela visita, 
-Volte sempre!
-
