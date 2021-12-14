@@ -2,7 +2,7 @@
 
 - 🔥 Junior Front-end Developter. 
 
-- 🔭 I’m currently studying new techs. 
+- 🔭 I’m currently learning: Typescript, React, Sass.  
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Rect, Typescript**
   
