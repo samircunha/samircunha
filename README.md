@@ -2,9 +2,9 @@
 
 - 🔥 Junior Front-end Developter. 
 
-- 🔭 I’m currently learning: Typescript, React, Sass.  
+- 🔭 I’m currently learning: Typescript, Sass.  
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Rect, Typescript**
+- 💬 Ask me about **JavaScript, HTML, CSS, Rect, Node, Typescript**
   
  <br><br>
   
