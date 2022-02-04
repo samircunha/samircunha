@@ -1,6 +1,6 @@
 # Hello, my name is Samir Cunha!
 
-- 🔥 Developter Junior. 
+- 🔥 Developer Junior. 
 
 - 🔭 I’m currently learning: Typescript, Sass.  
 
