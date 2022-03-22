@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning: Typescript, Sass.  
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Rect, Node, Typescript**
+- 💬 Ask me about **JavaScript, HTML, CSS, Rect, Node**
   
  <br><br>
   
