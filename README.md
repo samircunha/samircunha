@@ -1,10 +1,6 @@
-# Hello, my name is Samir Cunha!
+## Dear visitant, my name is Samir Cunha!
 
-- 🔥 Developer Junior. 
-
-- 🔭 I’m currently learning: Typescript, Sass.  
-
-- 💬 Ask me about **JavaScript, HTML, CSS, Rect, Node**
+- Full Stack Developer who loves to program and create projects that can help people.
   
  <br><br>
   
@@ -31,6 +27,8 @@
 <br><br>
   
 ## ⚙️ &nbsp;GitHub Analytics
+
+<br><br>
 
 <div style="display: inline_block">
   <a href="https://github.com/samircunha">
