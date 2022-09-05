@@ -1,6 +1,7 @@
 ## Dear visitant, my name is Samir Cunha!
 
 - Full Stack Developer who loves to program and create projects that can help people.
+- Working as a front-end developer using Angular.
   
  <br><br>
   
